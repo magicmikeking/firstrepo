@@ -1,2 +1,2 @@
 # firstrepo
-description of first repo
+This repo is for Mike's tutorial with Robert
